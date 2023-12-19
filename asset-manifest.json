@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Front-End-Lab-7/static/css/main.794edd5e.css",
+    "main.js": "/Front-End-Lab-7/static/js/main.32dec04c.js",
+    "static/js/787.1f85c6a5.chunk.js": "/Front-End-Lab-7/static/js/787.1f85c6a5.chunk.js",
+    "static/media/fairy.jpg": "/Front-End-Lab-7/static/media/fairy.962a454965dd774d7c00.jpg",
+    "static/media/berserk.jpg": "/Front-End-Lab-7/static/media/berserk.e534274dcc172f7313dc.jpg",
+    "static/media/vinland.jpg": "/Front-End-Lab-7/static/media/vinland.f1244782930e722db6d0.jpg",
+    "static/media/solo.jpg": "/Front-End-Lab-7/static/media/solo.fe08d1a3ff7b8fa8ed0e.jpg",
+    "static/media/chainsaw.jpg": "/Front-End-Lab-7/static/media/chainsaw.d37db1b1efb533296c8f.jpg",
+    "static/media/kimetsu.jpg": "/Front-End-Lab-7/static/media/kimetsu.56ed62215f4c9a81526a.jpg",
+    "static/media/ivanfran2.jpg": "/Front-End-Lab-7/static/media/ivanfran2.f09707deb5385e94231c.jpg",
+    "static/media/jujutsu.jpg": "/Front-End-Lab-7/static/media/jujutsu.1a8bfa736eb8f444d8d0.jpg",
+    "static/media/hunter.jpg": "/Front-End-Lab-7/static/media/hunter.0eaae6af2a565d849748.jpg",
+    "static/media/gintama.jpg": "/Front-End-Lab-7/static/media/gintama.4590c6258bb9aed32903.jpg",
+    "static/media/pluto.jpg": "/Front-End-Lab-7/static/media/pluto.a0765be4ad42ac5de197.jpg",
+    "static/media/astro.jpg": "/Front-End-Lab-7/static/media/astro.601e1945d6721e0d89ac.jpg",
+    "static/media/naruto.jpg": "/Front-End-Lab-7/static/media/naruto.4648d62e09e12a68af0e.jpg",
+    "static/media/attack.jpg": "/Front-End-Lab-7/static/media/attack.74a6a433789bcb062793.jpg",
+    "static/media/assasination.jpg": "/Front-End-Lab-7/static/media/assasination.419721f7ccc6b4371f05.jpg",
+    "static/media/grand.jpg": "/Front-End-Lab-7/static/media/grand.ea67f47da0a2adfd53d8.jpg",
+    "static/media/monster.jpg": "/Front-End-Lab-7/static/media/monster.8f259b2c49ada8098410.jpg",
+    "static/media/classroom.jpeg": "/Front-End-Lab-7/static/media/classroom.574955e12874bcd81947.jpeg",
+    "static/media/owari.jpeg": "/Front-End-Lab-7/static/media/owari.f9b945f40f5d9028a715.jpeg",
+    "index.html": "/Front-End-Lab-7/index.html",
+    "main.794edd5e.css.map": "/Front-End-Lab-7/static/css/main.794edd5e.css.map",
+    "main.32dec04c.js.map": "/Front-End-Lab-7/static/js/main.32dec04c.js.map",
+    "787.1f85c6a5.chunk.js.map": "/Front-End-Lab-7/static/js/787.1f85c6a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794edd5e.css",
+    "static/js/main.32dec04c.js"
+  ]
+}
